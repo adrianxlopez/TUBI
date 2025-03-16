@@ -1,0 +1,9 @@
+Cancer Study	Alteration Frequency	Alteration Type	Alteration Count
+Cholangiocarcinoma (MSK, Clin Cancer Res 2018)	24.479166666666664	mutated	47
+Intrahepatic Cholangiocarcinoma (MSK, Clin Cancer Res 2021)	22.613065326633166	mutated	45
+Intrahepatic Cholangiocarcinoma (MSK, Hepatology 2021)	20.631067961165048	mutated	85
+Cholangiocarcinoma (National Cancer Centre of Singapore, Nat Genet 2013)	20	mutated	3
+Cholangiocarcinoma (TCGA, Firehose Legacy)	11.428571428571429	mutated	4
+Intrahepatic Cholangiocarcinoma (JHU, Nat Genet 2013)	10	mutated	4
+Intrahepatic Cholangiocarcinoma (Shanghai, Nat Commun 2014)	4.854368932038835	mutated	5
+Cholangiocarcinoma (ICGC, Cancer Discov 2017)	3.8369304556354913	mutated	16
